@@ -15,7 +15,7 @@ const Home = () => {
         <Table sx={{ minWidth: 650 }} aria-label="simple table">
             <TableHead>
                 <TableRow>
-                    <TableCell>Name</TableCell>
+                    <TableCell>Name of candidate</TableCell>
                     <TableCell>Course</TableCell>
                     <TableCell>Place</TableCell>
                     <TableCell>Address</TableCell>
